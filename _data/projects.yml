@@ -1,1 +1,19 @@
+# =============================
+# My Research / Coding Projects
+# =============================
+
+- title: Facial Shape PCA Analysis
+  description: >
+    A Python project performing PCA (Principal Component Analysis)
+    on facial landmark data to extract and visualize major modes of variation
+    in human facial shapes.
+  authors:
+    - Kexuan Du
+  link: https://github.com/KD0924/facial-shape-pca
+  image: /images/facial_shape_pca_preview.png
+  highlight: true
+  tags:
+    - Machine Learning
+    - PCA
+    - Python
 
