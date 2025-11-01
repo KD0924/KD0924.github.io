@@ -13,6 +13,6 @@ main:
     url: "/#-educations"
 
   - title: "Projects"
-    url: "/#-projects"
-Enable Projects page in navigation bar
+   url: "/projects/"
+
 
