@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Projects
+title: "Projects"
 permalink: /projects/
 weight: 3
 ---
 
 {% include projects.html %}
-
-Fix front matter
 
