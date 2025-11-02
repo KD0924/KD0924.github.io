@@ -33,4 +33,5 @@ My research interests focus on **causal inference**, **large language models (LL
 <hr>
 
 <h2 id="projects">Projects</h2>
-{% include projects.html %}
+{% include projects.html show_title=false %}
+
