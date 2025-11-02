@@ -30,3 +30,7 @@ My research interests focus on **causal inference**, **large language models (LL
 - *2024.09 - 2025.12*, Master of Science in Health Data Science, University of Manchester. 
 - *2020.09 - 2024.07*, Bachelor of Science in Statistics, Southwestern University of Finance and Economics. 
 
+<hr>
+
+<h2 id="projects">Projects</h2>
+{% include projects.html %}
